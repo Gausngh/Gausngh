@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Gausngh
-- 👀 I’m interested in saleforce apps development.
-- 🌱 I’m currently learning apex, soql, aura and lightning
+- 👀 I’m interested in programming and web development.
+- 🌱 I’m currently learning full stack development.
 - 💞️ I’m looking to collaborate on above mentioned projects.
 - 📫 How to reach me ...
 
